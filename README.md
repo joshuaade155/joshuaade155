@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joshuaade155
+- 👋 Hi, I’m Joshua Atilola
 - 👀 I’m interested in ... Data Analytics
 - 🌱 I’m currently learning ... Power BI
 - 💞️ I’m looking to collaborate on ... Human Resource Projects
